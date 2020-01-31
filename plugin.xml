@@ -23,11 +23,7 @@
   
     <asset src="www/hostedapp-bridge.js" target="hostedapp-bridge.js" />
 
-    <engines>
-        <engine name="cordova-windows" />
-        <engine name="cordova-ios" />
-        <engine name="cordova-android" />
-    </engines>
+
 
     <!-- android -->
     <platform name="android">
